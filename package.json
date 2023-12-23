@@ -1,6 +1,6 @@
 {
   "name": "@mockingfox/sylius-megamenu-builder-plugin-frontend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mockingfox/sylius-megamenu-builder-frontend.git"
