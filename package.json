@@ -1,9 +1,9 @@
 {
-  "name": "@mockingfox/sylius-megamenu-builder-plugin-frontend",
+  "name": "@wackogueko/sylius-megamenu-builder-plugin-frontend",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mockingfox/sylius-megamenu-builder-frontend.git"
+    "url": "git+https://github.com/wackogueko/sylius-megamenu-builder-frontend.git"
   },
   "description": "A powerful yet easy to use megamenu builder for sylius.",
   "author": "mockingfox",
