@@ -1,9 +1,9 @@
 {
-  "name": "@wackogeeko/sylius-megamenu-builder-plugin-frontend",
+  "name": "@maejstro/sylius-megamenu-builder-plugin-frontend",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wackogeeko/sylius-megamenu-builder-frontend.git"
+    "url": "git+https://github.com/maejstro/sylius-megamenu-builder-frontend.git"
   },
   "description": "A powerful yet easy to use megamenu builder for sylius.",
   "author": "mockingfox",
