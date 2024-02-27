@@ -1,11 +1,11 @@
 {
   "name": "@zekostudio/sylius-megamenu-builder-plugin-frontend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zekostudio/sylius-megamenu-builder-frontend.git"
   },
-  "description": "A powerful yet easy to use megamenu builder for sylius.",
+  "description": "A powerful yet easy to use megamenu builder for Sylius.",
   "author": "zekostudio",
   "license": "MIT",
   "dependencies": {
@@ -23,7 +23,8 @@
     "lodash.throttle": "^4.1.1",
     "simplebar": "^6.2.5",
     "sortablejs": "^1.15.0",
-    "sweetalert2": "^11.10.1"
+    "sticky-js": "^1.3.0",
+    "sweetalert2": "^11.10.5"
   },
   "engines": {
     "node": "^14 || ^16 || ^18"
